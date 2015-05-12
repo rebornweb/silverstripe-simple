@@ -1,4 +1,4 @@
-# Using the Simple theme
+# Using the Simple 
 
  * Copy the theme into the `themes/` directory of your SilverStripe project.  If you've named it correctly, there should be a directory called `themes/simple/templates`.
  
